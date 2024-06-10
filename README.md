@@ -19,7 +19,7 @@ This repository contains a script to perform basic token operations on the Solan
 1. Clone the repository:
    
    ```sh
-   git clone https://github.com/silviaferraris/solana-tokens-minting-transfer.git
+   git clone git@github.com:silviaferraris/solana-tokens-minting-transfer.git
    cd solana-tokens-minting-transfer
    ```
 3. Install the dependencies:
